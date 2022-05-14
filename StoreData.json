@@ -3,7 +3,7 @@
     {
         "ID":"P1",
         "PNAME":"Gibson SG",
-        "GNAME":"Test",
+        "GNAME":"gibsonSG.jpg",
         "COST":"2000",
         "MSRP":"1500",
         "QTYHAND":"2",
@@ -15,7 +15,7 @@
     {
         "ID":"P2",
         "PNAME":"Gibson Les Paul",
-        "GNAME":"Test",
+        "GNAME":"gibsonLesPaul.png",
         "COST":"2500",
         "MSRP":"2250",
         "QTYHAND":"5",
@@ -27,7 +27,7 @@
     {
         "ID":"P3",
         "PNAME":"Gibson J-45 Standard",
-        "GNAME":"Test",
+        "GNAME":"gibsonJ-45.jpg",
         "COST":"3000",
         "MSRP":"2400",
         "QTYHAND":"2",
@@ -38,7 +38,7 @@
     {
         "ID":"P4",
         "PNAME":"Gibson Hummingbird",
-        "GNAME":"Test",
+        "GNAME":"gibsonHummingbird.png",
         "COST":"5000",
         "MSRP":"4995",
         "QTYHAND":"3",
@@ -50,7 +50,7 @@
     {
         "ID":"P5",
         "PNAME":"Gibson Flying V",
-        "GNAME":"Test",
+        "GNAME":"gibsonFlyingV.jpg",
         "COST":"2349",
         "MSRP":"2300",
         "QTYHAND":"8",
@@ -61,18 +61,18 @@
     {
         "ID":"P6",
         "PNAME":"Fender custom shop",
-        "GNAME":"Test",
+        "GNAME":"fenderCustomShop.png",
         "COST":"6000",
         "MSRP":"5000",
         "QTYHAND":"1",
         "QTYBACK":"1",
-        "DESC":"Premium Acoustic Guitar hand made at Gibson Mexico 2004 model",
+        "DESC":"Premium Electric Guitar hand made at Fender Custom Shop 2004 model",
         "BRAND":"Fender"
     },
     {
         "ID":"P7",
         "PNAME":"Fender Stratocaster",
-        "GNAME":"Test",
+        "GNAME":"fenderStrat.jpg",
         "COST":"1150",
         "MSRP":"1130",
         "QTYHAND":"10",
@@ -83,7 +83,7 @@
     {
         "ID":"P8",
         "PNAME":"Fender telecaster",
-        "GNAME":"Test",
+        "GNAME":"fenderTele.png",
         "COST":"1500",
         "MSRP":"1450",
         "QTYHAND":"6",
@@ -94,7 +94,7 @@
     {
         "ID":"P9",
         "PNAME":"Fender CD-60 Dreadnought",
-        "GNAME":"Test",
+        "GNAME":"fenderCD-60.jpg",
         "COST":"300",
         "MSRP":"300",
         "QTYHAND":"7",
@@ -105,7 +105,7 @@
     {
         "ID":"P10",
         "PNAME":"Fender Newporter Player",
-        "GNAME":"Test",
+        "GNAME":"fenderNewporter.jpg",
         "COST":"579",
         "MSRP":"570",
         "QTYHAND":"1",
@@ -116,7 +116,7 @@
     {
         "ID":"P11",
         "PNAME":"Martin D-35 Dreadnought",
-        "GNAME":"Test",
+        "GNAME":"martinD-35.png",
         "COST":"4159",
         "MSRP":"4000",
         "QTYHAND":"2",
@@ -127,7 +127,7 @@
     {
         "ID":"P12",
         "PNAME":"Martin D-45 Dreadnought",
-        "GNAME":"Test",
+        "GNAME":"martinD-45.jpg",
         "COST":"12500",
         "MSRP":"12000",
         "QTYHAND":"1",
@@ -138,7 +138,7 @@
     {
         "ID":"P13",
         "PNAME":"Martin Concert Ukulele",
-        "GNAME":"Test",
+        "GNAME":"martinConcertUke.jpg",
         "COST":"2159",
         "MSRP":"2000",
         "QTYHAND":"2",
@@ -149,7 +149,7 @@
     {
         "ID":"P14",
         "PNAME":"Martin D-18 Standard Dreadnought",
-        "GNAME":"Test",
+        "GNAME":"martinD-18.jpg",
         "COST":"3379",
         "MSRP":"3300",
         "QTYHAND":"4",
@@ -160,7 +160,7 @@
     {
         "ID":"P15",
         "PNAME":"Martin Steel String Backpacker Guitar",
-        "GNAME":"Test",
+        "GNAME":"martinBackpacker.png",
         "COST":"389",
         "MSRP":"380",
         "QTYHAND":"3",
